@@ -36,4 +36,4 @@ This Weather Application is a Python command-line tool that allows users to retr
 4. Usage
    To run the Weather App, use the following command:
    ```bash
-   python weather_application.py
+   python weather_app.py
