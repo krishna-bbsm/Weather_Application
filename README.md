@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Logo](logo.jpeg)
+![Weather App Logo](logo.jpg)
 
 ## Description
 
