@@ -1,6 +1,6 @@
-# Weather App
+# Weather Application
 
-![Weather App Logo](logo.jpg)
+![Weather App](logo.png)
 
 ## Description
 
@@ -36,4 +36,4 @@ This Weather Application is a Python command-line tool that allows users to retr
 4. Usage
    To run the Weather App, use the following command:
    ```bash
-   python wa.py
+   python weather_application.py
