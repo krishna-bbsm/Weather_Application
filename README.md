@@ -25,15 +25,19 @@ This Weather Application is a Python command-line tool that allows users to retr
 
 2. Navigate to the project directory:
 
+   ```bash
    cd weather-app
+   ```
    
 3. Install the required dependencies and create a virual environment:
 
+  ```bash
   pip install -r requirements.txt
   py -m pip install virtualenv
   py -m virtualenv venv
   .\venv\Scripts\Activate.ps1
-  
+  ```
 4. Usage
    To run the Weather App, use the following command:
+   ```bash
    python wa.py
